@@ -1,0 +1,1001 @@
+product_id,product_name,product_brand,product_price,product_quantity
+1,Apple iPhone 6,iPhone,87.95,102
+2,Playstation 4,Game Console,165.99,17
+3,Macbook,Desktop,12.99,140
+4,Apple iPhone 7,iPhone,80.99,178
+5,Google Nexus Player,Set Top Box,11.95,144
+6,Nvidia Shield Tablet K1,Tablet,155.95,3
+7,Apple iPhone 8 Plus,iPhone,12.95,136
+8,Samsung Galaxy S6,Android Mobile,81,177
+9,Apple TV 5th Gen 4K,Set Top Box,19.99,62
+10,Windows 7-based PC,Desktop,83.99,79
+11,Chromebook,Desktop,173.99,176
+12,Amazon 4K Fire TV,Set Top Box,63,94
+13,Apple iPhone XS Max,iPhone,195,179
+14,Amazon 4K Fire TV,Set Top Box,119.95,176
+15,HTC One X10,Android Mobile,151.99,79
+16,Amazon Kindle 4,E Reader,154.99,221
+17,Apple iPhone 6,iPhone,45.95,150
+18,Samsung Galaxy S9,Android Mobile,118.99,150
+19,LG G Pad 7.0,Tablet,112.99,211
+20,Google Nexus Player,Set Top Box,131.95,132
+21,Apple iPhone 6,iPhone,198.95,165
+22,Xbox One,Game Console,29,89
+23,Apple iPhone XS,iPhone,67.99,114
+24,Samsung Galaxy S7,Android Mobile,84,107
+25,Apple iPhone 8,iPhone,119.99,147
+26,Sony Xperia XZ,Android Mobile,26.99,174
+27,Samsung Galaxy Tab S3,Tablet,52.95,135
+28,Apple iPhone 6,iPhone,83,164
+29,Samsung Galaxy S7 Edge,Android Mobile,27.99,186
+30,Amazon Kindle Fire HDX 7,Tablet,131.95,119
+31,Windows 7-based PC,Desktop,58,137
+32,Apple iPhone XR,iPhone,27,248
+33,Chromebook,Desktop,119,67
+34,Sony Xperia XZ,Android Mobile,135.99,5
+35,Roku Ultra,Set Top Box,12.99,246
+36,Chromecast,Set Top Box,116.99,106
+37,Apple iPhone 7,iPhone,147.95,178
+38,Apple iPhone XS,iPhone,91.95,130
+39,Apple iPhone X,iPhone,62,89
+40,Apple iPhone XS,iPhone,37.99,5
+41,Roku Ultra,Set Top Box,173.99,161
+42,Sony Xperia Z5,Android Mobile,43.95,142
+43,Apple TV 5th Gen 4K,Set Top Box,86,93
+44,Chromebook,Desktop,86,82
+45,Apple iPhone 6,iPhone,20,253
+46,Nvidia Shield Tablet K1,Tablet,94.99,37
+47,LG G Pad 7.0,Tablet,58.95,141
+48,LG G Pad 7.0,Tablet,155.99,238
+49,LG G Pad 7.0,Tablet,128.99,254
+50,Chromecast,Set Top Box,29,175
+51,Apple iPhone 7 Plus,iPhone,28.95,186
+52,Google Pixel C,Tablet,179.99,84
+53,LG G Pad 7.0,Tablet,121.95,23
+54,Samsung Galaxy Tab A,Tablet,160.95,92
+55,Roku Ultra,Set Top Box,74.95,214
+56,Nintendo Wii U,Game Console,146,45
+57,Apple TV 5th Gen 4K,Set Top Box,48.99,4
+58,Windows 10-based PC,Desktop,13,180
+59,Macbook,Desktop,121,107
+60,Samsung Galaxy S7 Edge,Android Mobile,106.99,221
+61,Samsung Galaxy S7,Android Mobile,87,18
+62,Apple iPhone 7,iPhone,45,82
+63,Samsung Galaxy Tab S3,Tablet,14,185
+64,Apple iPhone XR,iPhone,31,79
+65,HTC One M9,Android Mobile,89.95,173
+66,Samsung Galaxy S7,Android Mobile,141.95,94
+67,Chromebook,Desktop,38.99,228
+68,Sony Xperia Z4 Tablet,Tablet,47.99,86
+69,HTC One M9,Android Mobile,110.99,181
+70,Playstation Vita,Game Console,100.99,178
+71,Sony Xperia Z4 Tablet,Tablet,93.99,116
+72,Nintendo Wii U,Game Console,41.99,149
+73,Samsung Galaxy S7 Edge,Android Mobile,72.95,173
+74,Windows 10-based PC,Desktop,16,126
+75,LG G Pad 7.0,Tablet,100,180
+76,Xbox One,Game Console,15.99,40
+77,Amazon Kindle 4,E Reader,16.99,175
+78,HTC One M9,Android Mobile,12.95,223
+79,Windows 7-based PC,Desktop,130,68
+80,Amazon Kindle Fire HDX 7,Tablet,123.95,173
+81,Apple iPhone 6,iPhone,15.95,175
+82,Nintendo Wii U,Game Console,123,235
+83,Chromebook,Desktop,182.99,213
+84,Amazon Kindle Fire HDX 7,Tablet,64,110
+85,Sony Xperia Z5,Android Mobile,71.99,129
+86,Minix NEO X5,Set Top Box,196,85
+87,Samsung Galaxy Tab S3,Tablet,81.95,60
+88,Nexus 6P,Android Mobile,56.99,139
+89,Nvidia Shield Tablet K1,Tablet,66.95,17
+90,HTC One X10,Android Mobile,172.95,184
+91,Samsung Galaxy S9,Android Mobile,44,185
+92,HTC One X10,Android Mobile,199.99,67
+93,Apple TV 4th Gen,Set Top Box,177.95,202
+94,Samsung Galaxy Tab S3,Tablet,18.95,212
+95,Playstation Vita,Game Console,54.95,228
+96,Apple iPhone XR,iPhone,19,73
+97,Windows 10-based PC,Desktop,185,254
+98,Samsung Galaxy S8,Android Mobile,181,219
+99,Apple iPhone 7,iPhone,84,93
+100,Xbox One S,Game Console,148,249
+101,Samsung Galaxy S9,Android Mobile,180,236
+102,Linux-based PC,Desktop,134,142
+103,Samsung Galaxy S7 Edge,Android Mobile,173,120
+104,Roku Ultra,Set Top Box,134,81
+105,Roku Ultra,Set Top Box,121,153
+106,Samsung Galaxy Tab S3,Tablet,38,44
+107,Amazon Kindle Fire HDX 7,Tablet,98.99,86
+108,Roku Ultra,Set Top Box,154.95,76
+109,Xbox One,Game Console,110,146
+110,Google Pixel C,Tablet,73.95,96
+111,Playstation Vita,Game Console,81.99,153
+112,Amazon 4K Fire TV,Set Top Box,178.99,195
+113,Amazon Kindle 3,E Reader,175.95,30
+114,Roku Ultra,Set Top Box,142.95,110
+115,Windows 10-based PC,Desktop,17,7
+116,Playstation 4,Game Console,192,222
+117,Playstation Vita,Game Console,125.95,217
+118,Apple iPhone 7,iPhone,165,46
+119,Samsung Galaxy S7,Android Mobile,178.99,61
+120,Google Pixel C,Tablet,32.99,42
+121,Apple iPhone XS,iPhone,119.95,202
+122,Samsung Galaxy Tab A,Tablet,21.99,160
+123,HTC One M9,Android Mobile,73.99,36
+124,Sony Xperia XZ,Android Mobile,16,101
+125,Samsung Galaxy Tab A,Tablet,114,116
+126,Amazon 4K Fire TV,Set Top Box,98,88
+127,Sony Xperia Z5,Android Mobile,27.95,23
+128,Samsung Galaxy S6 Edge Plus,Android Mobile,76.95,197
+129,Samsung Galaxy S6 Edge Plus,Android Mobile,60.99,110
+130,Samsung Galaxy S7,Android Mobile,145,68
+131,Chromecast,Set Top Box,160.95,91
+132,Xbox One S,Game Console,78.99,3
+133,HTC One X10,Android Mobile,67.99,6
+134,Samsung Galaxy S6,Android Mobile,94.95,93
+135,Xbox One,Game Console,38,127
+136,Nexus 6P,Android Mobile,131.99,113
+137,Xbox One,Game Console,33.95,37
+138,Apple iPhone 7 Plus,iPhone,194,172
+139,Amazon Kindle 3,E Reader,188,147
+140,Roku Ultra,Set Top Box,114.99,143
+141,Xbox One S,Game Console,123.99,174
+142,Samsung Galaxy S6,Android Mobile,115,250
+143,Apple iPhone X,iPhone,74,12
+144,Apple iPhone XR,iPhone,139.95,64
+145,Playstation Vita,Game Console,78.99,150
+146,Apple iPhone 8,iPhone,144.95,234
+147,Nvidia Shield Tablet K1,Tablet,173,42
+148,Google Nexus Player,Set Top Box,187.99,78
+149,Google Nexus Player,Set Top Box,187,10
+150,Apple iPhone 6,iPhone,112.99,144
+151,Apple iPhone X,iPhone,149.99,23
+152,Apple iPhone 8,iPhone,133,33
+153,Nintendo Wii U,Game Console,147.95,176
+154,Apple iPhone XR,iPhone,103.95,126
+155,Macbook,Desktop,109,253
+156,Amazon Kindle Fire HDX 7,Tablet,193.95,116
+157,Amazon Kindle 4,E Reader,106.99,40
+158,Apple iPhone 6,iPhone,95,157
+159,Apple iPhone XS,iPhone,128.95,254
+160,Sony Xperia Z4 Tablet,Tablet,41,129
+161,Sony Xperia XZ,Android Mobile,147.95,14
+162,Apple TV 5th Gen 4K,Set Top Box,166.95,175
+163,Apple iPhone 8,iPhone,143.95,242
+164,Samsung Galaxy S7 Edge,Android Mobile,77,170
+165,Samsung Galaxy S6 Edge Plus,Android Mobile,72.95,157
+166,Apple TV 4th Gen,Set Top Box,114.99,69
+167,Windows 10-based PC,Desktop,166.95,14
+168,Nexus 6P,Android Mobile,150.95,120
+169,Samsung Galaxy S8,Android Mobile,192.95,62
+170,Linux-based PC,Desktop,44,179
+171,Sony Xperia Z5,Android Mobile,177,68
+172,Samsung Galaxy S9,Android Mobile,59.95,43
+173,Chromecast,Set Top Box,156.95,113
+174,Macbook,Desktop,138,190
+175,Nintendo 3DS,Game Console,130.95,222
+176,Windows 7-based PC,Desktop,31.95,50
+177,Samsung Galaxy S6,Android Mobile,138.95,78
+178,Nintendo 3DS,Game Console,39,94
+179,Apple TV 4th Gen,Set Top Box,38.95,181
+180,Samsung Galaxy Tab A,Tablet,41,193
+181,Nintendo Wii U,Game Console,109.95,239
+182,Apple iPhone 8 Plus,iPhone,71,162
+183,Roku Ultra,Set Top Box,158.99,79
+184,Samsung Galaxy S9,Android Mobile,156.99,154
+185,Apple iPhone XR,iPhone,137.99,9
+186,Chromecast,Set Top Box,10.99,136
+187,Chromecast,Set Top Box,47.99,152
+188,Samsung Galaxy Tab S3,Tablet,16.99,162
+189,Apple iPhone 7 Plus,iPhone,22.95,200
+190,Windows 10-based PC,Desktop,81,73
+191,Apple iPhone XR,iPhone,156,200
+192,Nvidia Shield Tablet K1,Tablet,129.99,133
+193,HTC One M9,Android Mobile,114.95,213
+194,Apple iPhone XS,iPhone,84,44
+195,LG G Pad 7.0,Tablet,151.99,168
+196,Macbook,Desktop,86.99,54
+197,Apple iPhone 7,iPhone,60.95,249
+198,Linux-based PC,Desktop,131,141
+199,Apple iPhone 8,iPhone,190.99,187
+200,Apple TV 5th Gen 4K,Set Top Box,23.99,20
+201,Apple iPhone XS Max,iPhone,23.99,109
+202,Samsung Galaxy S7 Edge,Android Mobile,35.95,80
+203,Apple iPhone 8,iPhone,64.95,192
+204,Apple iPhone X,iPhone,188,76
+205,Sony Xperia Z4 Tablet,Tablet,80.95,18
+206,Amazon Kindle Fire HDX 7,Tablet,144,83
+207,Sony Xperia Z5,Android Mobile,24.99,181
+208,Samsung Galaxy Tab S3,Tablet,130,113
+209,Amazon Kindle Fire HDX 7,Tablet,81,3
+210,Xbox One,Game Console,69.95,21
+211,Samsung Galaxy S6,Android Mobile,182.95,64
+212,Sony Xperia Z4 Tablet,Tablet,62.95,126
+213,Apple iPhone 8 Plus,iPhone,48,43
+214,Roku Ultra,Set Top Box,170,59
+215,Google Pixel C,Tablet,173.95,55
+216,Apple TV 5th Gen 4K,Set Top Box,35.99,99
+217,Apple iPhone 8 Plus,iPhone,54.95,49
+218,Apple iPhone 8 Plus,iPhone,51.99,123
+219,Google Nexus Player,Set Top Box,178.99,42
+220,Apple iPhone XR,iPhone,29,217
+221,Samsung Galaxy S6,Android Mobile,152,255
+222,Apple iPhone X,iPhone,80.95,227
+223,Samsung Galaxy Tab A,Tablet,154.99,93
+224,Xbox One S,Game Console,114,82
+225,Samsung Galaxy Tab S3,Tablet,198,159
+226,Playstation Vita,Game Console,186.99,226
+227,Apple iPhone 8 Plus,iPhone,53.95,237
+228,Samsung Galaxy S7,Android Mobile,194.99,153
+229,Samsung Galaxy Tab A,Tablet,166,212
+230,Xbox One,Game Console,133.95,176
+231,Samsung Galaxy S7,Android Mobile,12,156
+232,Nexus 6P,Android Mobile,16.99,136
+233,Samsung Galaxy Tab A,Tablet,92.95,103
+234,Apple TV 4th Gen,Set Top Box,106.95,173
+235,Apple iPhone 8,iPhone,101,174
+236,Xbox One,Game Console,74.95,212
+237,Apple iPhone XS,iPhone,51.99,93
+238,Xbox One S,Game Console,152.99,76
+239,Apple iPhone X,iPhone,22.99,2
+240,Apple iPhone 7,iPhone,92.99,254
+241,Samsung Galaxy S7 Edge,Android Mobile,143.95,120
+242,Apple iPhone X,iPhone,139.95,237
+243,HTC One M9,Android Mobile,27,103
+244,Chromebook,Desktop,57.95,1
+245,Nintendo Wii U,Game Console,105.95,18
+246,Amazon Kindle 4,E Reader,75.95,227
+247,Apple iPhone X,iPhone,77.95,54
+248,Amazon 4K Fire TV,Set Top Box,78.99,142
+249,Apple iPhone 7 Plus,iPhone,133,172
+250,Windows 10-based PC,Desktop,58,66
+251,Apple iPhone 6,iPhone,155,8
+252,Macbook,Desktop,100.99,234
+253,HTC One X10,Android Mobile,118.99,42
+254,Playstation 4,Game Console,139.99,21
+255,Apple iPhone 7,iPhone,154.99,242
+256,Apple TV 4th Gen,Set Top Box,198.95,38
+257,Linux-based PC,Desktop,184.99,194
+258,HTC One M9,Android Mobile,157.99,27
+259,Amazon 4K Fire TV,Set Top Box,37.95,208
+260,Google Pixel C,Tablet,37,220
+261,Apple iPhone 7,iPhone,77.99,105
+262,Chromecast,Set Top Box,69.95,181
+263,Samsung Galaxy S6,Android Mobile,54.99,202
+264,Nintendo Wii U,Game Console,123.99,93
+265,Sony Xperia Z4 Tablet,Tablet,157.99,169
+266,Linux-based PC,Desktop,184.99,143
+267,HTC One M9,Android Mobile,161.99,246
+268,Macbook,Desktop,26.95,187
+269,Amazon Kindle 4,E Reader,167.99,0
+270,Amazon 4K Fire TV,Set Top Box,105,185
+271,Sony Xperia Z5,Android Mobile,176.95,151
+272,Google Nexus Player,Set Top Box,184.99,86
+273,Nintendo 3DS,Game Console,71.99,82
+274,Playstation Vita,Game Console,196,139
+275,Chromecast,Set Top Box,109,256
+276,Roku Ultra,Set Top Box,54.95,220
+277,Windows 10-based PC,Desktop,83.99,251
+278,Linux-based PC,Desktop,22,164
+279,Apple TV 4th Gen,Set Top Box,148.99,33
+280,Samsung Galaxy S7 Edge,Android Mobile,197.99,241
+281,Nintendo 3DS,Game Console,20.99,98
+282,Samsung Galaxy S7 Edge,Android Mobile,89.95,251
+283,Playstation 4,Game Console,47.99,127
+284,Windows 10-based PC,Desktop,78.99,222
+285,Nintendo 3DS,Game Console,36.95,68
+286,Windows 10-based PC,Desktop,147.99,241
+287,Samsung Galaxy S8,Android Mobile,89,70
+288,Amazon Kindle 3,E Reader,101.95,95
+289,Nvidia Shield Tablet K1,Tablet,18.95,0
+290,Google Nexus Player,Set Top Box,102.99,24
+291,Xbox One S,Game Console,163,31
+292,Samsung Galaxy S8,Android Mobile,157.95,97
+293,Apple iPhone 6,iPhone,21.99,114
+294,HTC One X10,Android Mobile,162.99,132
+295,Chromebook,Desktop,182,53
+296,Apple iPhone 8 Plus,iPhone,133,46
+297,Apple iPhone XS Max,iPhone,49.95,146
+298,Amazon Kindle Fire HDX 7,Tablet,85.99,28
+299,Windows 7-based PC,Desktop,174,51
+300,Minix NEO X5,Set Top Box,181,86
+301,Playstation 4,Game Console,20,235
+302,Roku Ultra,Set Top Box,168.99,22
+303,Apple iPhone XS Max,iPhone,167.99,222
+304,Samsung Galaxy Tab S3,Tablet,22.99,193
+305,Amazon Kindle 3,E Reader,171,22
+306,Samsung Galaxy S8,Android Mobile,80.95,224
+307,Amazon Kindle Fire HDX 7,Tablet,193.95,42
+308,Xbox One,Game Console,50,240
+309,Samsung Galaxy S9,Android Mobile,191,20
+310,Samsung Galaxy S9,Android Mobile,92,26
+311,Apple iPhone XR,iPhone,190,118
+312,Google Pixel C,Tablet,67.99,243
+313,Sony Xperia Z5,Android Mobile,58,247
+314,Amazon Kindle 4,E Reader,29,229
+315,Apple TV 5th Gen 4K,Set Top Box,40.95,150
+316,Windows 7-based PC,Desktop,179.99,18
+317,Nintendo Wii U,Game Console,128.99,82
+318,Apple iPhone 6,iPhone,181.99,62
+319,Nvidia Shield Tablet K1,Tablet,138.95,203
+320,Samsung Galaxy S6,Android Mobile,165,41
+321,Nintendo 3DS,Game Console,164,221
+322,Sony Xperia Z4 Tablet,Tablet,110.99,88
+323,Nexus 6P,Android Mobile,115.95,177
+324,Nintendo Wii U,Game Console,68.95,187
+325,Samsung Galaxy S8,Android Mobile,29.99,87
+326,HTC One X10,Android Mobile,197,211
+327,Apple TV 4th Gen,Set Top Box,66.95,132
+328,Playstation 4,Game Console,162.95,69
+329,Samsung Galaxy S6,Android Mobile,130,201
+330,Windows 7-based PC,Desktop,101.95,145
+331,Xbox One,Game Console,172,216
+332,Nexus 6P,Android Mobile,184.95,31
+333,Sony Xperia Z4 Tablet,Tablet,194.95,133
+334,Playstation Vita,Game Console,81.99,130
+335,Amazon 4K Fire TV,Set Top Box,140,249
+336,Sony Xperia Z4 Tablet,Tablet,144.99,42
+337,Google Pixel C,Tablet,13.95,221
+338,Macbook,Desktop,140.95,210
+339,Roku Ultra,Set Top Box,107,104
+340,LG G Pad 7.0,Tablet,45.95,49
+341,Sony Xperia Z4 Tablet,Tablet,193.99,198
+342,Apple iPhone 7 Plus,iPhone,34,212
+343,Sony Xperia Z4 Tablet,Tablet,190,5
+344,Xbox One S,Game Console,179,147
+345,Samsung Galaxy Tab S3,Tablet,32.95,20
+346,Samsung Galaxy Tab A,Tablet,73,61
+347,Samsung Galaxy S8,Android Mobile,60,86
+348,Samsung Galaxy S9,Android Mobile,105,215
+349,Samsung Galaxy S7 Edge,Android Mobile,53,213
+350,Amazon 4K Fire TV,Set Top Box,141.99,22
+351,Amazon Kindle 4,E Reader,55,72
+352,Samsung Galaxy S9,Android Mobile,182.95,152
+353,Samsung Galaxy S9,Android Mobile,113.99,30
+354,Nintendo 3DS,Game Console,61.95,62
+355,Apple iPhone XS Max,iPhone,197.99,173
+356,Samsung Galaxy Tab A,Tablet,138.99,136
+357,Amazon Kindle 4,E Reader,58.99,223
+358,Minix NEO X5,Set Top Box,105.95,141
+359,Apple iPhone XR,iPhone,55.99,211
+360,Playstation Vita,Game Console,77,188
+361,Nintendo 3DS,Game Console,153,34
+362,Linux-based PC,Desktop,42.95,201
+363,Nintendo Wii U,Game Console,53,66
+364,Google Nexus Player,Set Top Box,10,10
+365,Roku Ultra,Set Top Box,49.95,248
+366,Samsung Galaxy S6,Android Mobile,129.99,218
+367,Apple iPhone 7 Plus,iPhone,95,182
+368,Nvidia Shield Tablet K1,Tablet,17.99,234
+369,Chromecast,Set Top Box,138.95,83
+370,Apple iPhone 8,iPhone,18.99,147
+371,Chromecast,Set Top Box,96,254
+372,Playstation Vita,Game Console,186,199
+373,Samsung Galaxy S6 Edge Plus,Android Mobile,38,79
+374,Samsung Galaxy S6,Android Mobile,95.99,104
+375,Samsung Galaxy Tab A,Tablet,66.99,193
+376,Nvidia Shield Tablet K1,Tablet,129.99,39
+377,Amazon Kindle 3,E Reader,47,86
+378,Windows 10-based PC,Desktop,58,202
+379,Roku Ultra,Set Top Box,170,8
+380,Apple iPhone XS Max,iPhone,54.99,219
+381,Samsung Galaxy S6 Edge Plus,Android Mobile,72.99,176
+382,Amazon 4K Fire TV,Set Top Box,41.99,149
+383,Google Pixel C,Tablet,170.99,186
+384,Sony Xperia Z4 Tablet,Tablet,76.99,112
+385,Amazon 4K Fire TV,Set Top Box,26,38
+386,Chromebook,Desktop,93.95,84
+387,Amazon Kindle Fire HDX 7,Tablet,134.95,171
+388,Google Nexus Player,Set Top Box,19.99,106
+389,Samsung Galaxy S7,Android Mobile,123.99,28
+390,Chromebook,Desktop,193.95,184
+391,Apple iPhone XR,iPhone,95.95,85
+392,Amazon Kindle 4,E Reader,142.95,136
+393,Nvidia Shield Tablet K1,Tablet,14.99,1
+394,Chromecast,Set Top Box,51,45
+395,Samsung Galaxy Tab S3,Tablet,29.99,62
+396,Nvidia Shield Tablet K1,Tablet,42.95,17
+397,Windows 7-based PC,Desktop,195.99,217
+398,Nintendo Wii U,Game Console,94.99,224
+399,Apple iPhone 6,iPhone,185,176
+400,Nintendo 3DS,Game Console,145,12
+401,Samsung Galaxy S7,Android Mobile,162.95,245
+402,Apple TV 5th Gen 4K,Set Top Box,88.95,233
+403,HTC One X10,Android Mobile,23.95,0
+404,Apple iPhone 6,iPhone,152.95,30
+405,Amazon 4K Fire TV,Set Top Box,52,197
+406,Apple iPhone 8 Plus,iPhone,175,101
+407,LG G Pad 7.0,Tablet,52.95,148
+408,Apple iPhone 7 Plus,iPhone,191,71
+409,Apple iPhone XS Max,iPhone,190,98
+410,Amazon 4K Fire TV,Set Top Box,186.95,233
+411,Windows 7-based PC,Desktop,99.95,188
+412,Amazon Kindle 3,E Reader,61.95,102
+413,Macbook,Desktop,152.95,138
+414,Playstation 4,Game Console,192.99,187
+415,Sony Xperia XZ,Android Mobile,54.95,52
+416,Google Nexus Player,Set Top Box,98.99,182
+417,Apple iPhone 8 Plus,iPhone,128,219
+418,Xbox One S,Game Console,88.95,41
+419,Amazon Kindle 3,E Reader,173,191
+420,Linux-based PC,Desktop,20.95,172
+421,Amazon 4K Fire TV,Set Top Box,117.99,150
+422,Samsung Galaxy Tab S3,Tablet,131.99,180
+423,Xbox One S,Game Console,117,18
+424,Nintendo Wii U,Game Console,18,191
+425,LG G Pad 7.0,Tablet,61.95,62
+426,Amazon Kindle Fire HDX 7,Tablet,67.99,142
+427,Chromecast,Set Top Box,139.95,5
+428,Apple iPhone XS,iPhone,135.99,53
+429,HTC One M9,Android Mobile,22.95,0
+430,HTC One M9,Android Mobile,55.95,171
+431,Apple iPhone 7,iPhone,172.95,93
+432,Apple iPhone 8 Plus,iPhone,171.95,91
+433,Apple iPhone 8,iPhone,28,55
+434,Apple iPhone XR,iPhone,34.99,204
+435,Playstation Vita,Game Console,118.95,7
+436,Windows 10-based PC,Desktop,43.95,132
+437,Samsung Galaxy S6 Edge Plus,Android Mobile,89,209
+438,Apple TV 5th Gen 4K,Set Top Box,170,228
+439,Amazon Kindle 3,E Reader,90,188
+440,Apple iPhone XR,iPhone,77.99,71
+441,Samsung Galaxy S9,Android Mobile,135.95,240
+442,Samsung Galaxy S7,Android Mobile,45.99,131
+443,Apple iPhone X,iPhone,82,212
+444,Apple TV 4th Gen,Set Top Box,15,102
+445,Playstation Vita,Game Console,27.99,142
+446,HTC One X10,Android Mobile,74.95,82
+447,Samsung Galaxy S7,Android Mobile,32.99,233
+448,Apple iPhone XS,iPhone,147,219
+449,Samsung Galaxy S8,Android Mobile,60.95,234
+450,Xbox One S,Game Console,131,223
+451,Sony Xperia Z5,Android Mobile,151.99,46
+452,Samsung Galaxy S7,Android Mobile,69.99,105
+453,Amazon Kindle 4,E Reader,97.99,3
+454,Samsung Galaxy Tab S3,Tablet,158.95,206
+455,Apple iPhone XS,iPhone,190.99,209
+456,HTC One M9,Android Mobile,95,230
+457,Minix NEO X5,Set Top Box,30.95,242
+458,Apple iPhone 8,iPhone,90.99,215
+459,Apple iPhone 8,iPhone,20.95,104
+460,Macbook,Desktop,82.95,32
+461,Amazon Kindle 3,E Reader,57,198
+462,Playstation 4,Game Console,93.99,65
+463,Minix NEO X5,Set Top Box,73,124
+464,Samsung Galaxy S7 Edge,Android Mobile,185.95,185
+465,HTC One X10,Android Mobile,82.99,73
+466,Apple iPhone 6,iPhone,187.99,50
+467,Apple iPhone X,iPhone,160.99,67
+468,Samsung Galaxy S7,Android Mobile,68.99,68
+469,Amazon Kindle 3,E Reader,170.99,76
+470,Google Nexus Player,Set Top Box,103,21
+471,Samsung Galaxy S7,Android Mobile,16.99,46
+472,Linux-based PC,Desktop,198.99,176
+473,Apple iPhone 7 Plus,iPhone,172,79
+474,Roku Ultra,Set Top Box,182.95,101
+475,Amazon 4K Fire TV,Set Top Box,172.95,25
+476,Samsung Galaxy S7,Android Mobile,48,229
+477,HTC One X10,Android Mobile,41.99,251
+478,Samsung Galaxy S7 Edge,Android Mobile,175.95,122
+479,Nvidia Shield Tablet K1,Tablet,149,114
+480,Roku Ultra,Set Top Box,196,236
+481,Google Pixel C,Tablet,28.95,215
+482,Sony Xperia Z4 Tablet,Tablet,132.95,109
+483,Minix NEO X5,Set Top Box,134.95,52
+484,Amazon 4K Fire TV,Set Top Box,180.99,46
+485,Minix NEO X5,Set Top Box,161.99,244
+486,Windows 10-based PC,Desktop,189,14
+487,Playstation 4,Game Console,28.99,195
+488,Playstation 4,Game Console,192.99,94
+489,Xbox One S,Game Console,168.95,19
+490,Windows 10-based PC,Desktop,110.99,66
+491,Sony Xperia Z4 Tablet,Tablet,25.95,133
+492,Playstation Vita,Game Console,157.95,89
+493,Apple TV 4th Gen,Set Top Box,74,225
+494,Google Pixel C,Tablet,87.95,212
+495,Apple iPhone 8 Plus,iPhone,110,143
+496,Apple iPhone 7,iPhone,37.99,20
+497,Nexus 6P,Android Mobile,163.95,254
+498,Sony Xperia Z5,Android Mobile,42.99,216
+499,Nvidia Shield Tablet K1,Tablet,103.99,16
+500,Samsung Galaxy Tab A,Tablet,196.95,184
+501,Chromecast,Set Top Box,100.95,133
+502,Samsung Galaxy S7,Android Mobile,109,129
+503,Samsung Galaxy Tab A,Tablet,177.99,104
+504,Macbook,Desktop,165.99,140
+505,Sony Xperia Z4 Tablet,Tablet,91.99,98
+506,Windows 10-based PC,Desktop,55.95,2
+507,Samsung Galaxy Tab A,Tablet,97.95,149
+508,Amazon Kindle 3,E Reader,172.99,14
+509,Samsung Galaxy S8,Android Mobile,107,147
+510,Apple iPhone 6,iPhone,99,66
+511,Linux-based PC,Desktop,105,28
+512,Samsung Galaxy S7 Edge,Android Mobile,181.99,3
+513,Amazon Kindle Fire HDX 7,Tablet,14.99,136
+514,Apple iPhone X,iPhone,67,178
+515,Roku Ultra,Set Top Box,160.99,170
+516,Samsung Galaxy S6 Edge Plus,Android Mobile,118.99,239
+517,Apple iPhone XS,iPhone,175.95,172
+518,Windows 7-based PC,Desktop,68,127
+519,Apple iPhone 8,iPhone,92.95,2
+520,Samsung Galaxy S8,Android Mobile,10,159
+521,Samsung Galaxy Tab A,Tablet,178,12
+522,Nintendo 3DS,Game Console,183.99,231
+523,Nexus 6P,Android Mobile,194.99,171
+524,Samsung Galaxy S9,Android Mobile,63,173
+525,Samsung Galaxy S7,Android Mobile,186.95,39
+526,Macbook,Desktop,184,118
+527,Xbox One S,Game Console,35.99,86
+528,Sony Xperia Z5,Android Mobile,90,215
+529,Playstation Vita,Game Console,47,93
+530,HTC One X10,Android Mobile,85,80
+531,HTC One M9,Android Mobile,170.99,250
+532,Samsung Galaxy S9,Android Mobile,96.99,138
+533,Apple iPhone 7,iPhone,102,191
+534,Apple iPhone 8 Plus,iPhone,11.99,4
+535,Amazon Kindle 4,E Reader,117.95,190
+536,Samsung Galaxy S7,Android Mobile,163.95,151
+537,Xbox One,Game Console,51.99,65
+538,Samsung Galaxy S7,Android Mobile,175.99,212
+539,Samsung Galaxy S6,Android Mobile,124.99,234
+540,Windows 7-based PC,Desktop,192.95,160
+541,Windows 10-based PC,Desktop,129.95,195
+542,HTC One X10,Android Mobile,164.95,233
+543,Samsung Galaxy S8,Android Mobile,166.95,188
+544,Nintendo Wii U,Game Console,187.99,13
+545,Google Pixel C,Tablet,51.99,7
+546,Samsung Galaxy S7,Android Mobile,45.99,143
+547,Google Pixel C,Tablet,42.99,164
+548,Samsung Galaxy S6,Android Mobile,71.95,133
+549,Google Nexus Player,Set Top Box,107.99,102
+550,Sony Xperia XZ,Android Mobile,174,66
+551,Amazon Kindle 3,E Reader,125.95,253
+552,Sony Xperia Z4 Tablet,Tablet,167.99,122
+553,Linux-based PC,Desktop,102.95,95
+554,Nintendo Wii U,Game Console,41,163
+555,Sony Xperia Z4 Tablet,Tablet,192.95,121
+556,Samsung Galaxy Tab S3,Tablet,148.95,171
+557,Apple iPhone X,iPhone,93.95,184
+558,Nintendo 3DS,Game Console,56.99,168
+559,Samsung Galaxy Tab A,Tablet,84.99,180
+560,Apple iPhone 7,iPhone,73,65
+561,Apple iPhone 6,iPhone,64,188
+562,Roku Ultra,Set Top Box,150.99,39
+563,Apple iPhone 7,iPhone,142,117
+564,Apple iPhone XS,iPhone,15,209
+565,Apple TV 4th Gen,Set Top Box,31.95,247
+566,Windows 10-based PC,Desktop,131.95,94
+567,Apple TV 5th Gen 4K,Set Top Box,107.95,99
+568,Chromecast,Set Top Box,136.99,55
+569,Amazon Kindle 4,E Reader,60,35
+570,Playstation Vita,Game Console,35.95,122
+571,Samsung Galaxy S8,Android Mobile,61.99,117
+572,LG G Pad 7.0,Tablet,54.99,150
+573,Samsung Galaxy S9,Android Mobile,119.99,225
+574,Amazon 4K Fire TV,Set Top Box,191,30
+575,Minix NEO X5,Set Top Box,90,206
+576,Google Pixel C,Tablet,21,123
+577,Apple iPhone XS Max,iPhone,188,220
+578,HTC One M9,Android Mobile,10.99,167
+579,Apple iPhone 7,iPhone,94.99,13
+580,Playstation 4,Game Console,188,121
+581,HTC One X10,Android Mobile,60.95,49
+582,HTC One M9,Android Mobile,94,2
+583,Apple iPhone 8,iPhone,189.99,84
+584,Apple iPhone 8 Plus,iPhone,26.99,29
+585,LG G Pad 7.0,Tablet,149.99,88
+586,Samsung Galaxy S8,Android Mobile,57,12
+587,Nintendo 3DS,Game Console,137.99,153
+588,Nvidia Shield Tablet K1,Tablet,117,123
+589,Nintendo 3DS,Game Console,153,167
+590,Chromebook,Desktop,138.95,113
+591,Apple TV 5th Gen 4K,Set Top Box,110.95,20
+592,Xbox One S,Game Console,110.95,52
+593,Linux-based PC,Desktop,47,242
+594,Sony Xperia XZ,Android Mobile,111,204
+595,Apple iPhone XS,iPhone,181,160
+596,Xbox One,Game Console,91.99,109
+597,Apple iPhone XS Max,iPhone,49.99,145
+598,Google Pixel C,Tablet,116,35
+599,Samsung Galaxy S8,Android Mobile,100.99,185
+600,Windows 10-based PC,Desktop,171.95,19
+601,Windows 10-based PC,Desktop,120.95,201
+602,HTC One X10,Android Mobile,68,250
+603,Chromecast,Set Top Box,39.99,29
+604,Samsung Galaxy S8,Android Mobile,36,7
+605,Nintendo 3DS,Game Console,138.95,160
+606,Linux-based PC,Desktop,104,48
+607,Samsung Galaxy S8,Android Mobile,18.95,250
+608,Macbook,Desktop,192.95,32
+609,LG G Pad 7.0,Tablet,118,204
+610,Apple iPhone XS Max,iPhone,177.99,203
+611,Samsung Galaxy S6 Edge Plus,Android Mobile,101,216
+612,Amazon Kindle 4,E Reader,164.95,76
+613,Apple TV 4th Gen,Set Top Box,78,111
+614,Amazon 4K Fire TV,Set Top Box,167,44
+615,Apple TV 5th Gen 4K,Set Top Box,26.99,232
+616,Apple iPhone XR,iPhone,35.99,198
+617,LG G Pad 7.0,Tablet,164.99,87
+618,Samsung Galaxy S9,Android Mobile,50.99,219
+619,Apple iPhone XS,iPhone,87.95,67
+620,Google Pixel C,Tablet,33.99,55
+621,Apple iPhone 7,iPhone,35.99,11
+622,Xbox One,Game Console,133.99,161
+623,Macbook,Desktop,45.99,99
+624,Samsung Galaxy Tab A,Tablet,75.99,255
+625,Xbox One S,Game Console,50.95,35
+626,Apple iPhone XR,iPhone,73.99,165
+627,Apple TV 4th Gen,Set Top Box,22.99,6
+628,Sony Xperia XZ,Android Mobile,74.95,198
+629,Amazon Kindle 4,E Reader,177.95,184
+630,Windows 10-based PC,Desktop,191,121
+631,Nvidia Shield Tablet K1,Tablet,111.95,29
+632,HTC One X10,Android Mobile,192.99,238
+633,Roku Ultra,Set Top Box,22.95,111
+634,Nintendo Wii U,Game Console,138.95,75
+635,Samsung Galaxy S7 Edge,Android Mobile,80.95,77
+636,Playstation Vita,Game Console,87.95,204
+637,Samsung Galaxy Tab S3,Tablet,184.99,201
+638,Samsung Galaxy Tab A,Tablet,107.95,193
+639,Minix NEO X5,Set Top Box,75.99,30
+640,Minix NEO X5,Set Top Box,199,173
+641,Google Nexus Player,Set Top Box,155.95,31
+642,Apple TV 5th Gen 4K,Set Top Box,131,7
+643,Amazon Kindle 4,E Reader,84,95
+644,Apple iPhone XS Max,iPhone,183.95,16
+645,LG G Pad 7.0,Tablet,126,124
+646,Windows 10-based PC,Desktop,64,47
+647,HTC One X10,Android Mobile,152.99,167
+648,Apple TV 5th Gen 4K,Set Top Box,194.99,132
+649,Apple iPhone 6,iPhone,197,163
+650,Samsung Galaxy Tab S3,Tablet,87.99,57
+651,Nexus 6P,Android Mobile,115.99,198
+652,Google Nexus Player,Set Top Box,196,218
+653,Samsung Galaxy S7 Edge,Android Mobile,113,251
+654,Sony Xperia XZ,Android Mobile,104.99,160
+655,Apple iPhone 7,iPhone,129,217
+656,Amazon Kindle Fire HDX 7,Tablet,173.99,120
+657,Samsung Galaxy S7 Edge,Android Mobile,140.95,149
+658,Windows 7-based PC,Desktop,12.99,191
+659,Samsung Galaxy S8,Android Mobile,197.99,156
+660,Amazon Kindle 3,E Reader,16,86
+661,Apple iPhone X,iPhone,49,77
+662,Samsung Galaxy Tab A,Tablet,106,88
+663,Chromebook,Desktop,168.95,251
+664,Roku Ultra,Set Top Box,198.99,77
+665,Samsung Galaxy Tab A,Tablet,199,185
+666,LG G Pad 7.0,Tablet,154.95,21
+667,Apple iPhone X,iPhone,39.99,90
+668,Apple iPhone XR,iPhone,103.99,204
+669,Roku Ultra,Set Top Box,134,177
+670,Apple iPhone 6,iPhone,59,175
+671,Minix NEO X5,Set Top Box,42.99,93
+672,Samsung Galaxy S7 Edge,Android Mobile,53.99,66
+673,Samsung Galaxy Tab A,Tablet,34.95,211
+674,Amazon 4K Fire TV,Set Top Box,153,127
+675,Windows 10-based PC,Desktop,174.95,63
+676,Chromecast,Set Top Box,83.95,248
+677,HTC One M9,Android Mobile,154,108
+678,Google Nexus Player,Set Top Box,192.99,42
+679,Xbox One S,Game Console,147.99,25
+680,Apple iPhone 8 Plus,iPhone,106.95,240
+681,Chromecast,Set Top Box,82,205
+682,Apple iPhone XS,iPhone,87,166
+683,HTC One X10,Android Mobile,102.95,231
+684,Apple iPhone XS,iPhone,181.99,119
+685,Amazon Kindle Fire HDX 7,Tablet,147.99,88
+686,Apple iPhone XR,iPhone,52.99,216
+687,Samsung Galaxy S8,Android Mobile,156,75
+688,HTC One M9,Android Mobile,158.99,70
+689,Apple TV 4th Gen,Set Top Box,180,177
+690,Samsung Galaxy S7 Edge,Android Mobile,62.99,116
+691,Roku Ultra,Set Top Box,192,235
+692,Apple iPhone 7,iPhone,71.95,119
+693,Amazon Kindle Fire HDX 7,Tablet,108.99,54
+694,Nintendo 3DS,Game Console,162.99,59
+695,Apple iPhone 8,iPhone,62,70
+696,Apple iPhone XR,iPhone,64.99,111
+697,Amazon 4K Fire TV,Set Top Box,160.95,208
+698,Apple iPhone 7,iPhone,98.95,60
+699,Apple iPhone 8 Plus,iPhone,19.99,106
+700,Nintendo Wii U,Game Console,159.95,245
+701,Apple TV 4th Gen,Set Top Box,196,168
+702,Apple iPhone 8 Plus,iPhone,197.95,203
+703,Amazon Kindle 3,E Reader,174.99,163
+704,Samsung Galaxy Tab S3,Tablet,142,11
+705,Apple iPhone 8 Plus,iPhone,106,29
+706,Xbox One,Game Console,150.95,13
+707,Playstation Vita,Game Console,38,162
+708,Apple iPhone 7 Plus,iPhone,55.99,139
+709,Samsung Galaxy S8,Android Mobile,107.95,119
+710,Apple TV 5th Gen 4K,Set Top Box,60.99,80
+711,Samsung Galaxy S9,Android Mobile,75.95,196
+712,Apple iPhone XS,iPhone,127.99,177
+713,Amazon 4K Fire TV,Set Top Box,38.99,255
+714,Roku Ultra,Set Top Box,107.99,106
+715,Xbox One S,Game Console,64,45
+716,LG G Pad 7.0,Tablet,10,7
+717,Amazon Kindle 4,E Reader,99.95,117
+718,HTC One X10,Android Mobile,13.99,43
+719,Apple iPhone 7,iPhone,95.99,204
+720,Chromebook,Desktop,138.99,192
+721,Samsung Galaxy S8,Android Mobile,124,94
+722,Samsung Galaxy S9,Android Mobile,25.95,71
+723,Samsung Galaxy S8,Android Mobile,33.95,0
+724,Minix NEO X5,Set Top Box,158.99,207
+725,Xbox One,Game Console,63.99,104
+726,Apple iPhone 8,iPhone,164.99,152
+727,Nintendo Wii U,Game Console,112.99,24
+728,Samsung Galaxy Tab A,Tablet,191.95,217
+729,Nintendo Wii U,Game Console,64,110
+730,Apple iPhone XR,iPhone,30.99,191
+731,Apple iPhone 7,iPhone,161.99,24
+732,Apple iPhone 7,iPhone,96,253
+733,Apple iPhone X,iPhone,112,79
+734,Sony Xperia Z4 Tablet,Tablet,39.95,202
+735,HTC One X10,Android Mobile,104.95,3
+736,Sony Xperia Z5,Android Mobile,126.99,77
+737,Windows 7-based PC,Desktop,169.99,67
+738,Apple iPhone 8 Plus,iPhone,105.95,199
+739,Xbox One,Game Console,194,13
+740,Samsung Galaxy S6 Edge Plus,Android Mobile,116.95,187
+741,Playstation 4,Game Console,43.99,90
+742,Samsung Galaxy S8,Android Mobile,90.95,132
+743,Xbox One S,Game Console,106,36
+744,Apple iPhone XR,iPhone,33.95,129
+745,Xbox One S,Game Console,143.99,10
+746,Google Nexus Player,Set Top Box,162.99,68
+747,Sony Xperia XZ,Android Mobile,171.99,13
+748,Samsung Galaxy S8,Android Mobile,24,71
+749,Apple iPhone XS,iPhone,75.99,180
+750,Samsung Galaxy S7,Android Mobile,16,91
+751,Samsung Galaxy Tab A,Tablet,35,39
+752,Xbox One,Game Console,185,43
+753,Amazon Kindle Fire HDX 7,Tablet,121.99,133
+754,Google Pixel C,Tablet,135.99,87
+755,Minix NEO X5,Set Top Box,23.99,151
+756,Nintendo 3DS,Game Console,160.99,81
+757,Chromebook,Desktop,141.95,35
+758,Nintendo 3DS,Game Console,165,85
+759,Samsung Galaxy S7 Edge,Android Mobile,41,43
+760,Samsung Galaxy S6,Android Mobile,10,141
+761,Samsung Galaxy S9,Android Mobile,77.99,231
+762,Apple iPhone 7 Plus,iPhone,149.95,0
+763,Sony Xperia Z5,Android Mobile,33,118
+764,HTC One X10,Android Mobile,174,192
+765,Macbook,Desktop,48,11
+766,Sony Xperia Z5,Android Mobile,14,250
+767,Apple iPhone 6,iPhone,124.95,252
+768,LG G Pad 7.0,Tablet,157.95,230
+769,Windows 10-based PC,Desktop,121,144
+770,HTC One M9,Android Mobile,131,70
+771,Sony Xperia Z5,Android Mobile,128,163
+772,Apple iPhone XS,iPhone,104.99,26
+773,Apple iPhone 8 Plus,iPhone,180.99,2
+774,LG G Pad 7.0,Tablet,109.99,100
+775,Samsung Galaxy S7 Edge,Android Mobile,163,30
+776,Playstation 4,Game Console,135.95,252
+777,Windows 7-based PC,Desktop,60.99,105
+778,Apple iPhone 8 Plus,iPhone,156,110
+779,Apple iPhone XS,iPhone,122.99,152
+780,Xbox One S,Game Console,117.99,129
+781,Amazon Kindle 4,E Reader,188.95,56
+782,Apple iPhone X,iPhone,147.95,16
+783,Apple iPhone XS,iPhone,151,200
+784,Samsung Galaxy S9,Android Mobile,93,95
+785,Apple TV 5th Gen 4K,Set Top Box,101,14
+786,Apple iPhone 8,iPhone,15.99,216
+787,Minix NEO X5,Set Top Box,183,172
+788,Samsung Galaxy S6,Android Mobile,126.95,139
+789,Sony Xperia Z5,Android Mobile,83.99,220
+790,Amazon Kindle Fire HDX 7,Tablet,195.99,244
+791,Samsung Galaxy S7 Edge,Android Mobile,13.99,181
+792,Macbook,Desktop,84,140
+793,Apple iPhone XS,iPhone,159.99,118
+794,Apple iPhone XS Max,iPhone,157.95,84
+795,Macbook,Desktop,132.95,166
+796,Apple iPhone 8 Plus,iPhone,27,91
+797,Samsung Galaxy Tab S3,Tablet,21.99,230
+798,Windows 7-based PC,Desktop,67,34
+799,Sony Xperia Z4 Tablet,Tablet,18,169
+800,Roku Ultra,Set Top Box,132.95,148
+801,Xbox One S,Game Console,43,60
+802,Playstation 4,Game Console,137.99,223
+803,Chromecast,Set Top Box,41.99,141
+804,Sony Xperia Z4 Tablet,Tablet,142.95,188
+805,Nintendo 3DS,Game Console,117.99,166
+806,Sony Xperia Z4 Tablet,Tablet,53.99,74
+807,Playstation 4,Game Console,13,165
+808,Samsung Galaxy S6,Android Mobile,35,34
+809,Macbook,Desktop,45.95,214
+810,Google Nexus Player,Set Top Box,102.99,6
+811,Macbook,Desktop,76.95,176
+812,Nexus 6P,Android Mobile,93.99,53
+813,Xbox One,Game Console,43,201
+814,Chromecast,Set Top Box,10,33
+815,Xbox One S,Game Console,196.99,115
+816,Chromecast,Set Top Box,190.99,192
+817,HTC One X10,Android Mobile,135.99,100
+818,Amazon 4K Fire TV,Set Top Box,105.99,237
+819,Macbook,Desktop,179.99,22
+820,Apple iPhone XS,iPhone,75,40
+821,Nintendo Wii U,Game Console,105.99,11
+822,Playstation Vita,Game Console,195.95,124
+823,Amazon Kindle 4,E Reader,72,68
+824,Apple iPhone X,iPhone,187,58
+825,HTC One M9,Android Mobile,182,235
+826,Samsung Galaxy S9,Android Mobile,45,14
+827,Google Nexus Player,Set Top Box,169.99,173
+828,Windows 10-based PC,Desktop,121.95,67
+829,Apple iPhone 7 Plus,iPhone,111,177
+830,Samsung Galaxy S8,Android Mobile,14.95,119
+831,Nvidia Shield Tablet K1,Tablet,73,148
+832,Samsung Galaxy Tab S3,Tablet,156.95,112
+833,Sony Xperia Z4 Tablet,Tablet,170,2
+834,Windows 7-based PC,Desktop,35.99,133
+835,Nexus 6P,Android Mobile,97.99,86
+836,Xbox One,Game Console,15.95,239
+837,Chromebook,Desktop,69,164
+838,Sony Xperia Z5,Android Mobile,47.99,171
+839,Chromecast,Set Top Box,63.99,70
+840,Apple iPhone X,iPhone,143.95,90
+841,Minix NEO X5,Set Top Box,141.95,181
+842,Samsung Galaxy S6,Android Mobile,158.95,236
+843,Sony Xperia XZ,Android Mobile,110.99,243
+844,Amazon Kindle 3,E Reader,67.99,7
+845,Nintendo Wii U,Game Console,164.99,157
+846,Sony Xperia Z4 Tablet,Tablet,18,14
+847,Playstation 4,Game Console,113,205
+848,Roku Ultra,Set Top Box,146,177
+849,Roku Ultra,Set Top Box,14.95,155
+850,Xbox One,Game Console,144.95,15
+851,Apple iPhone 7,iPhone,180.99,141
+852,Samsung Galaxy S7 Edge,Android Mobile,93.99,94
+853,Samsung Galaxy S7,Android Mobile,15.95,176
+854,Playstation 4,Game Console,76.99,251
+855,Xbox One,Game Console,25.99,80
+856,Amazon Kindle 4,E Reader,125.95,142
+857,Chromebook,Desktop,86,122
+858,Google Pixel C,Tablet,165.99,76
+859,Xbox One,Game Console,131.99,39
+860,Apple iPhone X,iPhone,23.95,110
+861,Minix NEO X5,Set Top Box,93,44
+862,Samsung Galaxy S6,Android Mobile,77.99,229
+863,Minix NEO X5,Set Top Box,78.99,22
+864,Samsung Galaxy S6 Edge Plus,Android Mobile,166.95,186
+865,Apple iPhone 6,iPhone,112,27
+866,Playstation 4,Game Console,165.95,43
+867,Apple iPhone XS,iPhone,146,206
+868,Apple iPhone 8,iPhone,97.95,55
+869,Samsung Galaxy Tab A,Tablet,16,253
+870,Amazon Kindle 4,E Reader,41.99,171
+871,Apple iPhone XR,iPhone,100,48
+872,Windows 10-based PC,Desktop,54.95,69
+873,Samsung Galaxy S8,Android Mobile,49.95,148
+874,Apple iPhone XS Max,iPhone,10,230
+875,Samsung Galaxy Tab A,Tablet,67.99,53
+876,Apple TV 4th Gen,Set Top Box,61.99,181
+877,Apple iPhone 8,iPhone,146.99,238
+878,LG G Pad 7.0,Tablet,183.95,28
+879,Samsung Galaxy S6,Android Mobile,48,147
+880,Apple iPhone 8 Plus,iPhone,54,145
+881,Apple iPhone X,iPhone,181.95,248
+882,Windows 7-based PC,Desktop,138.99,91
+883,Apple TV 5th Gen 4K,Set Top Box,112.99,254
+884,Apple iPhone XS,iPhone,60.95,169
+885,Google Nexus Player,Set Top Box,37.95,202
+886,Windows 10-based PC,Desktop,75.95,122
+887,Windows 10-based PC,Desktop,92.99,63
+888,Windows 10-based PC,Desktop,58.99,226
+889,Apple iPhone 8 Plus,iPhone,173,61
+890,Apple iPhone XS Max,iPhone,57.95,42
+891,Playstation 4,Game Console,153,9
+892,Amazon Kindle 3,E Reader,28,11
+893,Apple iPhone 6,iPhone,121.99,92
+894,Google Nexus Player,Set Top Box,53.99,151
+895,Apple iPhone XS Max,iPhone,117.95,216
+896,Linux-based PC,Desktop,100.99,182
+897,Chromecast,Set Top Box,168.95,5
+898,Nvidia Shield Tablet K1,Tablet,129.99,10
+899,Chromecast,Set Top Box,33,233
+900,HTC One M9,Android Mobile,124.95,142
+901,Samsung Galaxy S7,Android Mobile,17,147
+902,Apple iPhone 8,iPhone,22.99,179
+903,Samsung Galaxy S9,Android Mobile,102,180
+904,Samsung Galaxy S7,Android Mobile,111.95,83
+905,Nexus 6P,Android Mobile,174.99,93
+906,Apple iPhone X,iPhone,96,72
+907,Apple TV 5th Gen 4K,Set Top Box,106.95,46
+908,Amazon 4K Fire TV,Set Top Box,133,229
+909,Amazon Kindle Fire HDX 7,Tablet,42.95,219
+910,Sony Xperia Z5,Android Mobile,70.99,200
+911,Nexus 6P,Android Mobile,166,22
+912,Nintendo 3DS,Game Console,39.99,29
+913,Macbook,Desktop,102.99,142
+914,Macbook,Desktop,63.99,148
+915,Amazon 4K Fire TV,Set Top Box,179.95,147
+916,Sony Xperia XZ,Android Mobile,72.95,149
+917,Sony Xperia Z5,Android Mobile,87,255
+918,Amazon 4K Fire TV,Set Top Box,159.95,128
+919,Windows 10-based PC,Desktop,138,32
+920,Chromebook,Desktop,20.95,19
+921,Samsung Galaxy S9,Android Mobile,152.99,220
+922,Nvidia Shield Tablet K1,Tablet,120.99,139
+923,LG G Pad 7.0,Tablet,73.95,180
+924,Apple iPhone X,iPhone,57,191
+925,Minix NEO X5,Set Top Box,78,114
+926,Samsung Galaxy S6,Android Mobile,159,62
+927,Nintendo Wii U,Game Console,20,67
+928,Sony Xperia Z5,Android Mobile,90.95,53
+929,Roku Ultra,Set Top Box,71,172
+930,Sony Xperia XZ,Android Mobile,65.95,158
+931,Apple iPhone 8 Plus,iPhone,24,6
+932,Nintendo Wii U,Game Console,143.95,82
+933,Playstation 4,Game Console,146.99,3
+934,Amazon 4K Fire TV,Set Top Box,196,134
+935,Amazon Kindle 3,E Reader,42.99,247
+936,Windows 7-based PC,Desktop,27.99,88
+937,Amazon Kindle Fire HDX 7,Tablet,139.99,15
+938,Playstation Vita,Game Console,18,90
+939,Roku Ultra,Set Top Box,128.95,15
+940,Samsung Galaxy S6 Edge Plus,Android Mobile,100,126
+941,Macbook,Desktop,128.95,33
+942,Xbox One S,Game Console,18.99,163
+943,Apple iPhone 8 Plus,iPhone,36.95,54
+944,Apple iPhone 8,iPhone,54.99,28
+945,Apple iPhone XS Max,iPhone,196,240
+946,Macbook,Desktop,90.95,54
+947,Samsung Galaxy S6 Edge Plus,Android Mobile,109.95,198
+948,Apple TV 5th Gen 4K,Set Top Box,41,162
+949,Amazon Kindle 3,E Reader,162.99,72
+950,Apple iPhone XS,iPhone,82,10
+951,Apple iPhone X,iPhone,196.99,175
+952,Windows 7-based PC,Desktop,132.95,38
+953,Apple iPhone 7,iPhone,154.99,142
+954,Nvidia Shield Tablet K1,Tablet,168,166
+955,Chromecast,Set Top Box,165.95,103
+956,Samsung Galaxy S6,Android Mobile,118.99,70
+957,Samsung Galaxy S6,Android Mobile,67,142
+958,Playstation 4,Game Console,101,153
+959,HTC One M9,Android Mobile,116.95,102
+960,Amazon Kindle Fire HDX 7,Tablet,29.99,214
+961,Windows 10-based PC,Desktop,193,10
+962,Xbox One S,Game Console,22.95,88
+963,Apple iPhone 7 Plus,iPhone,82.95,70
+964,Apple iPhone 7 Plus,iPhone,64.95,208
+965,Amazon Kindle 4,E Reader,93,137
+966,Amazon Kindle 4,E Reader,24.95,87
+967,Playstation Vita,Game Console,82,20
+968,Apple iPhone 7 Plus,iPhone,150,211
+969,Windows 10-based PC,Desktop,51.95,167
+970,Xbox One,Game Console,52.95,251
+971,Playstation Vita,Game Console,124,61
+972,Samsung Galaxy Tab A,Tablet,39,106
+973,Amazon Kindle 4,E Reader,19.99,112
+974,Samsung Galaxy S6,Android Mobile,155.99,164
+975,Amazon Kindle Fire HDX 7,Tablet,80.95,250
+976,Apple iPhone XS Max,iPhone,185.99,83
+977,Apple TV 5th Gen 4K,Set Top Box,126,94
+978,Apple TV 4th Gen,Set Top Box,145.99,91
+979,Nintendo Wii U,Game Console,73,178
+980,Samsung Galaxy S6,Android Mobile,144,69
+981,Google Pixel C,Tablet,77,89
+982,Sony Xperia XZ,Android Mobile,82.99,31
+983,Amazon 4K Fire TV,Set Top Box,87.99,213
+984,Apple iPhone 6,iPhone,176.99,109
+985,Samsung Galaxy S7,Android Mobile,122.95,206
+986,Playstation Vita,Game Console,120.95,12
+987,Apple iPhone 7,iPhone,10.95,125
+988,Sony Xperia Z5,Android Mobile,54.99,149
+989,Apple iPhone 8,iPhone,58,157
+990,Nintendo Wii U,Game Console,63,116
+991,Windows 10-based PC,Desktop,189.95,174
+992,Macbook,Desktop,110,143
+993,Amazon 4K Fire TV,Set Top Box,167,245
+994,Roku Ultra,Set Top Box,77,117
+995,Nintendo 3DS,Game Console,44,250
+996,Apple iPhone 8 Plus,iPhone,121.95,211
+997,Samsung Galaxy S9,Android Mobile,96.95,55
+998,Apple iPhone 7 Plus,iPhone,97,142
+999,Minix NEO X5,Set Top Box,53.99,72
+1000,Amazon Kindle 3,E Reader,91,57
