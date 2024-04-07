@@ -2,22 +2,22 @@ customer_id,first_name,last_name,gender,email,phone,country,order_id
 1,Jason,Thompson,Male,jh60@rocketmail.com,212-160-0606,Portugal,462
 2,Kimberly,Williams,Female,kimberlymariewilliams@ymail.com,435-906-4550,France,266
 3,Jonathan,Mitchell,Male,jonathan_matthew44@ymail.com,351-541-5867,Russia,27
-4,Amelia,Hall,Female,amelia_j_hall@yahoo.com,737-507-1514,Russia,77
+4,Amelia,Hall,Female,amelia_j_hall@yahoo.com,,Russia,77
 5,Melissa,Simmons,Female,melissasimmons@yahoo.com,602-090-1095,United States,827
-6,Alexandra,Wilson,Female,a.j.wilson@yahoo.com,952-070-5087,Czech Republic,745
+6,Alexandra,Wilson,Female,a.j.wilson@yahoo.com,952/070/5087,Czech Republic,745
 7,Kelsey,Alexander,Female,kelsey.michelle.alexander@aol.com,302-699-3180,Indonesia,774
 8,Jennifer,Cook,Female,jcook41@gmail.com,210-418-7770,China,273
 9,Mark,Butler,Male,markbutler@outlook.com,217-069-3955,Nigeria,138
 10,Courtney,Allen,Female,c_m_allen@live.com,573-619-0765,Poland,427
 11,Jason,Smith,Male,jason_smith@aol.com,731-461-3254,Saudi Arabia,453
-12,Kevin,Torres,Male,ketorres@yahoo.com,419-819-2582,Indonesia,927
-13,Alexis,Thompson,Female,alexis_m_thompson@outlook.com,718-602-6387,Colombia,15
+12,Kevin,Torres,Male,ketorres@yahoo.com,419/819/2582,Indonesia,927
+13,Alexis,Thompson,Female,alexis_m_thompson@outlook.com,718\602\6387,Colombia,15
 14,Ashley,Hughes,Female,ashley_m_hughes@gmail.com,414-646-9175,France,23
-15,Tiffany,Bennett,Female,t.bennett@outlook.com,845-535-3746,Indonesia,634
-16,James,Baker,Male,j_m@ymail.com,615-070-5898,Guinea-Bissau,762
+15,Tiffany,Bennett,Female,t.bennett@outlook.com,,Indonesia,634
+16,James,Baker,Male,j_m@ymail.com,,Guinea-Bissau,762
 17,Rachel,Gray,Female,r_gray@hotmail.com,775-641-3157,Indonesia,593
 18,Rachel,Bell,Female,rachel@aol.com,843-196-7722,Peru,715
-19,Anthony,Murphy,Male,anthonymurphy@ymail.com,870-487-1227,Kosovo,230
+19,Anthony,Murphy,Male,anthonymurphy@ymail.com,8704871227,Kosovo,230
 20,Michelle,Henderson,Female,michelle_irene@gmail.com,847-593-1727,Philippines,553
 21,Jeremy,Turner,Male,jrturner@aol.com,870-670-2495,China,658
 22,Ryan,Moore,Male,rjmoore@rocketmail.com,847-075-4763,Mexico,516
@@ -44,17 +44,17 @@ customer_id,first_name,last_name,gender,email,phone,country,order_id
 43,Samantha,Diaz,Female,ssdiaz@hotmail.com,781-267-8364,Ivory Coast,61
 44,Jeremy,Young,Male,jeremycharlesyoung@rocketmail.com,612-660-1318,Greece,777
 45,Charlotte,Brooks,Female,charlottebrooks@hotmail.com,563-701-4889,China,388
-46,Christina,Lewis,Female,clewis2@outlook.com,828-013-6639,Pakistan,151
+46,Christina,Lewis,Female,clewis2@outlook.com,,Pakistan,151
 47,Jose,Anderson,Male,j_anderson@ymail.com,405-023-7652,Kazakhstan,222
-48,Isaac,Peterson,Male,i.j.peterson@aol.com,267-375-6086,Guatemala,355
+48,Isaac,Peterson,Male,i.j.peterson@aol.com,,Guatemala,355
 49,Layla,Reed,Female,ln@gmail.com,614-417-4772,Thailand,502
-50,Nathan,Collins,Male,nathan_m_collins@live.com,936-977-9989,Russia,241
+50,Nathan,Collins,Male,nathan_m_collins@live.com,,Russia,241
 51,Heather,Wilson,Female,heather.marie.wilson@ymail.com,575-244-9919,Palestinian Territory,472
 52,Erin,Williams,Female,e.l.williams35@yahoo.com,330-088-2382,China,896
-53,Aubrey,Garcia,Female,a_garcia@yahoo.com,540-136-6958,Kazakhstan,888
+53,Aubrey,Garcia,Female,a_garcia@yahoo.com,,Kazakhstan,888
 54,Joseph,Turner,Male,josephturner62@gmail.com,626-104-1645,China,752
 55,Isaac,Henderson,Male,isaachenderson@rocketmail.com,857-192-6124,Thailand,855
-56,Jack,Hayes,Male,jhayes@live.com,518-046-3187,Indonesia,650
+56,Jack,Hayes,Male,jhayes@live.com,,Indonesia,650
 57,Nathan,Walker,Male,nathanleewalker10@live.com,513-660-2235,Tunisia,478
 58,Sophia,Washington,Female,s.washington@gmail.com,912-488-6915,Cameroon,783
 59,Melissa,Hughes,Female,melissa.irene.hughes@gmail.com,540-550-4467,Zimbabwe,971
@@ -65,7 +65,7 @@ customer_id,first_name,last_name,gender,email,phone,country,order_id
 64,Thomas,Hughes,Male,thomasj@gmail.com,515-124-1246,Vietnam,747
 65,James,Washington,Male,j_washington8@hotmail.com,731-455-7106,Indonesia,417
 66,Brianna,Price,Female,brianna_faith_price@ymail.com,920-251-2646,China,153
-67,Owen,Carter,Male,owencarter@aol.com,220-360-8280,Indonesia,5
+67,Owen,Carter,Male,owencarter@aol.com,,Indonesia,5
 68,Benjamin,Ramirez,Male,benjamin.ramirez@outlook.com,272-203-1991,China,6
 69,Dylan,Long,Male,dylanlong54@yahoo.com,774-206-6770,Kenya,949
 70,Audrey,Roberts,Female,amroberts91@hotmail.com,657-135-7503,Colombia,940
@@ -73,7 +73,7 @@ customer_id,first_name,last_name,gender,email,phone,country,order_id
 72,Thomas,Thomas,Male,td@yahoo.com,423-711-9454,Afghanistan,911
 73,Jessica,Bennett,Female,j_bennett@aol.com,929-552-3854,China,615
 74,Elizabeth,Rodriguez,Female,e_rodriguez@ymail.com,309-753-7903,South Korea,406
-75,Thomas,Jones,Male,t.c.jones@aol.com,818-134-8680,Nigeria,602
+75,Thomas,Jones,Male,t.c.jones@aol.com,,Nigeria,602
 76,Eric,Foster,Male,eric_r_foster@live.com,713-168-6253,Brazil,396
 77,Megan,Moore,Female,megan.may.moore11@live.com,316-356-1813,Hungary,983
 78,Lillian,Clark,Female,l_r_clark@live.com,464-204-9036,Czech Republic,641
